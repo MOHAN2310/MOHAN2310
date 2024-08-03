@@ -1,8 +1,10 @@
 
 Hey there 👋! I am Mohan. Python developer who loves creating efficient solutions. I'm all about Python, and I am working with tools like Docker, Kubernetes, Azure, and SQL databases. Then, I started my career in a product based company - Anunta Technology as a software developer. Here I gained knowledge about virtual and cloud computing platforms in Microsoft Azure.
-My main area of technical expertise are in Python, FastAPI, and Postgres SQL.
+My main area of technical expertise are in Python, Django, FastAPI, and Postgres SQL.
 
 Tech has been a wild ride of continuous learning for me, and I'm always up for fresh challenges and collaborations.
+
+- 🌱 I’m currently learning ReactJs
 
 <!--
 **MOHAN2310/MOHAN2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
