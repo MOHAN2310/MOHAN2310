@@ -7,7 +7,7 @@
 <h3 align="center">A passionate software Engineer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 Hey there! I am Mohan. Python developer who loves creating efficient solutions. I'm all about Python, and I am working with tools like Docker, Kubernetes, Azure, and SQL databases. Then, I started my career in a product based company - Anunta Technology as a software developer. Here I gained knowledge about virtual and cloud computing platforms in Microsoft Azure.
-My main area of technical expertise are in Python, Django, FastAPI, and Postgres SQL.
+My main area of technical expertise are in Python, Django, FastAPI, Postgres SQL, Azure.
 
 Tech has been a wild ride of continuous learning for me, and I'm always up for fresh challenges and collaborations.
 
